@@ -1,0 +1,7 @@
+######################################### READ ME !!! #########################################
+#
+#    By no means do I claim that haarcascade that is in this directory is mine in any way.
+#    I have placed it here so you can run your code faster, 
+#    though it would be a good idea to source this file on your PC.
+#
+######################################### READ ME !!! #########################################
