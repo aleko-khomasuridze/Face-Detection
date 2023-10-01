@@ -1,6 +1,3 @@
-# this code was writen by Aleko khomasuridze
-# in 04.12.2022 
-
 """
 Real-time Face Detection and Visualization
 
@@ -20,6 +17,7 @@ Color Definitions:
 Author: Your Name
 Date: December 4, 2022
 """
+
 
 import cv2
 from faceDraw import faceDraw
